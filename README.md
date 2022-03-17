@@ -179,3 +179,14 @@
  - Váza
  
 <!-- ========================================= -->
+
+## Věnce a girlandy
+
+### 18891840
+### SER - Prefix
+
+- Vánoční ozdoby
+- Vánoční svícen
+- Vánoční věnec
+- Vánoční girlanda
+

@@ -396,3 +396,16 @@ Oddělení je v: Zážitky, poukazy a vouchery -> Zboží -> Nábytek a doplňky
 - Dárková taška
 - Taška na víno
 - Provázek
+
+<!-- ========================================= -->
+
+## Šperkovnice a stojany na šperky
+### ID: 18889823
+### SEO - Prefix
+
+- Kufr
+- Šperkovnice
+- Dárková krabička
+- Krabička na šperky
+
+<!-- ========================================= -->

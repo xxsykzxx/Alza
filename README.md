@@ -796,6 +796,80 @@ V oddělení: Hračky, pro děti a miminka
 -	Servírovací kleště
 -	Popelník
 
+<!-- ========================================= -->
+
+## Sklenice
+
+### ID: 18858853
+### SEO - Prefix:
+
+-	Sklenička
+-	Sada sklenic
+-	Karafa
+-	Whisky set
+-	Sklenice na teplé nápoje
+-	Sklenice na bílé víno
+-	Sklenice na pivo
+-	Sklenice na whisky
+-	Sklenice na šampaňské
+-	Sklenice na studené nápoje
+-	Termosklenice
+-	Značky na sklenice
+-	Sklenice na vodu
+-	Sklenice na čaj
+-	Sklenice na panáky
+-	Sklenice na míchané nápoje
+-	Sklenice na rum
+-	Sklenice na gin
+-	Sklenice na koňak
+-	Sklenice na brandy
+-	Sklenice na aperol
+-	Sklenice na likér
+-	Sklenice na červené víno
+
+<!-- ========================================= -->
+
+## Svícny
+
+### ID: 18884224
+### SEO - Prefix:
+
+- Dekorace
+- Svícen
+
+<!-- ========================================= -->
+
+## Kostýmy a párty oslavy (Dekorace a doplňky -> podzim)
+
+### ID: 18879397
+### SEO - Prefix:
+
+-	Dekorace
+-	Stojánek
+-	Sprej
+-	Talíř
+-	Doplněk ke kostýmu
+-	Lepidlo
+-	Příslušenství do auta
+-	Vlajka
+-	Pájka
+-	Kelímek
+-	Bublifuk
+-	Vánoční ozdoby
+-	Sada příborů
+-	Brčko
+-	Papírové ubrousky
+-	Balení dárků
+-	Jednorázové nádobí
+-	Dekorace na dort
+-	Dárkový box
+-	Party doplňky
+-	Dočasné tetování
+-	Vyrábění pro děti
+-	Lapač snů
+-	Konfety
+-	Kouzelná hůlka
+![image](https://user-images.githubusercontent.com/59166385/158792970-d4447a68-0c56-47a6-bcb7-724236d95b02.png)
 
 
 

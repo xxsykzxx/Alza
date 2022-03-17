@@ -869,10 +869,16 @@ V oddělení: Hračky, pro děti a miminka
 -	Lapač snů
 -	Konfety
 -	Kouzelná hůlka
-![image](https://user-images.githubusercontent.com/59166385/158792970-d4447a68-0c56-47a6-bcb7-724236d95b02.png)
+
+<!-- ========================================= -->
+
+## Šití a háčkování
+Knihy, poslech a filmy
 
 
-
+### ID: 18886275
+### SEO - Prefix:
+- kniha
 
 
 

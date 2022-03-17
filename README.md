@@ -183,7 +183,7 @@
 ## Věnce a girlandy
 
 ### ID: 18891840
-### SER - Prefix
+### SEO - Prefix
 
 - Vánoční ozdoby
 - Vánoční svícen
@@ -198,3 +198,86 @@ Oddělení je v: Zážitky, poukazy a vouchery -> Zboží -> Nábytek a doplňky
 ### ID: 18881581
 
 <!-- ========================================= -->
+
+## Zavlažování (konvičky a džbánky)
+
+### ID: 18858818
+### SEO - Prefix
+
+- Čerpadlo
+- Čisticí prostředek
+- Držák
+- Držák na zeď
+- Filtr
+- Hadice
+- Napájecí kabel
+- Nástavec
+- Nůž
+- Postřikovač
+- Pumpa
+- Sada
+- Smart Switch
+- Spojka
+- Těsnění
+- Tryska
+- Vodní filtr
+- Zásuvka
+- Zavlažovač
+- Naviják
+- Sprcha
+- Rozprašovač
+- Násada
+- Rozdělovač
+- Zavlažovací pistole
+- Mezikus
+- Detektor úniku vody
+- Magnet
+- Ventil
+- Domácí vodárna
+- Květináč
+- Kolíky
+- Rychlospojka
+- Kalové čerpadlo
+- Čerpadlo na vodu
+- Ponorné čerpadlo
+- Čerpadlo do vrtu
+- Čerpadlo do sudu
+- Buben na hadici
+- Vozík na hadici
+- Zahradní čerpadlo
+- Solární sprcha
+- Zahradní hadice
+- Impulzní zavlažovač
+- Dílenská pumpa
+- Sada na zavlažování
+- Smršťovací hadice
+- Vozík s hadicí
+- Naviják s hadicí
+- Spirálová hadice
+- Zavlažovací hadice
+- Spojka na hadici
+- Box na ventily
+- Zavlažovací ventil
+- Držák na trubky
+- Kapač
+- Rozvodná trubka
+- Redukční přístroj
+- Regulační ventil
+- Zavlažovací počítač
+- Adaptér s vnitřním závitem
+- Zavlažovací zásuvka
+- Zahradní trubka
+- Připojení zadešťovače
+- Průtokoměr
+- Přimíchávač hnojiva
+- Zátka
+- Spojka na trubky
+- Závitový adaptér
+- Fontánové čerpadlo
+- Mlhová tryska
+- Starter kit
+- Konev
+- Časový spínač
+- Příslušenství pro čerpadla
+- Chytrý zavlažovač
+

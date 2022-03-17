@@ -306,3 +306,93 @@ Oddělení je v: Zážitky, poukazy a vouchery -> Zboží -> Nábytek a doplňky
 - Šálek
 
 
+<!-- ========================================= -->
+
+## Polšáře
+
+### ID: 18885780
+### SEO - Prefix:
+
+- Náhradní náplň
+- Plyšák
+- Polštář
+- Koš na prádlo
+- Hřejivý polštářek
+- Ložní sada
+- Usínáček
+- Cestovní polštář
+
+<!-- ========================================= -->
+
+## Doplňky do domácnosti (Drogerie)
+
+## ID: 18872223
+### SEO - Prefix
+
+- Dávkovač mýdla
+- Dávkovač
+- Držák
+- Krém
+- Tekuté mýdlo
+- Úložný box
+- Zásobník
+- Ramínko
+- Dóza
+- Kelímek
+- Sáček
+- WC štětka
+- Čisticí mýdlo
+- Magnetický držák
+- Papírové ubrousky
+- Zásobník na ručníky
+- Držák na kartáčky
+- Zásobník na toaletní papír
+- Dávkovač dezinfekce
+- Zásobník na kosmetické ubrousky
+
+<!-- ========================================= -->
+
+## Svíčky
+
+### ID:18855788
+### SEO - Prefix
+
+- Dárková sada
+- Sklenička
+- Svíčka
+- Termosklenice
+- Aroma lampa
+- Příslušenství ke svíčkám
+- Vonný vosk
+- Adventní kalendář
+- Repelentní svíčka
+- Nůžky na knot
+- Zhášedlo na svíčky
+
+<!-- ========================================= -->
+
+## Balení Dárků (dárkové tašky)
+
+### ID: 18874400
+### SEO - Prefix
+
+- Dárek
+- Dekorace
+- Etikety
+- Lepidlo
+- Lepicí páska
+- Jmenovka
+- Sáček
+- Stolní kalendář
+- Tuhé lepidlo
+- Vánoční ozdoby
+- Papírové ubrousky
+- Dárkový balící papír
+- Dárková krabička
+- Sada samolepek
+- Dárkové přání
+- Balení dárků
+- Adventní kalendář
+- Dárková taška
+- Taška na víno
+- Provázek

@@ -486,3 +486,54 @@ V oddělení: Hračky, pro děti a miminka
 - Piknikový koš
 - Chladící vložka
 
+<!-- ========================================= -->
+
+# Sochy a sošky
+
+### ID: 18891717
+### SEO - Prefix:
+
+- Dekorace
+
+<!-- ========================================= -->
+
+## Venkovní hry (pro děti) -> Větrníky
+
+### ID: 18857625
+### SEO - Prefix:
+
+- Basketbalový míč
+- Domino
+- Frisbee
+- Házedlo
+- Venkovní hra
+- Náhradní náplň
+- Společenská hra
+- Sportovní set
+- Stolní fotbal
+- Vrtulník
+- Slackline
+- Kreativní hračka
+- RC Letadlo
+- Hračka do vody
+- Basketbalový koš
+- Basketbalová síťka
+- Míč pro děti
+- Ochrana
+- Elektronický terč
+- Fotbalová branka
+- Dětská zbraň
+- Bublifuk
+- Terč
+- Set na stolní tenis
+- Hra venkovní
+- Model letadla
+- Balonky
+- Dětské nářadí
+- Kroket sada
+- Petanque
+- Vodní stůl
+
+
+
+

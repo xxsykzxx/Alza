@@ -455,3 +455,17 @@ V oddělení: Hračky, pro děti a miminka
 - Tabule
 - Popisovatelná tapeta
 - Magnetická tabule
+
+<!-- ========================================= -->
+
+## Bloky a zápisníky
+
+### ID: 18865054
+### SEO - Prefix
+
+- Zápisník
+- Diář
+- Samolepicí bloček
+- Poznámkový blok
+
+<!-- ========================================= -->

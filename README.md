@@ -640,3 +640,42 @@ V oddělení: Hračky, pro děti a miminka
 
 - Rohožka
 
+<!-- ========================================= -->
+
+## Servírovací misky (ošatky / misky)
+
+### ID: 18872200
+### SEO - Prefix:
+
+- Miska
+- Mísa
+- Servírovací sada
+- Miska na podnose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

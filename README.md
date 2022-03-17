@@ -598,3 +598,25 @@ V oddělení: Hračky, pro děti a miminka
 - Příborník
 - Košík
 - Podtácek
+
+<!-- ========================================= -->
+
+## Fotorámečky
+
+### ID: 18857921
+### SEO - Prefix:
+
+- Sada na otisky
+- Fotorámeček
+
+<!-- ========================================= -->
+
+## Obrazy
+
+### ID: 18857925
+### SEO - Prefix:
+
+- Obraz
+
+<!-- ========================================= -->
+

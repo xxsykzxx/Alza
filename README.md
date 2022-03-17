@@ -469,3 +469,20 @@ V oddělení: Hračky, pro děti a miminka
 - Poznámkový blok
 
 <!-- ========================================= -->
+
+## Jídlonosiče a termoboxy (koš)
+
+### ID: 18858864
+### SEO - Prefix
+
+- Hrnec
+- Nákupní taška
+- Termoska
+- Dóza
+- Nákupní košík
+- Jídlonosič
+- Jídelní taška
+- Termotaška
+- Piknikový koš
+- Chladící vložka
+

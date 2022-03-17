@@ -620,4 +620,23 @@ V oddělení: Hračky, pro děti a miminka
 
 <!-- ========================================= -->
 
+## Věšáky
+
+### ID: 18884806
+### SEO - Prefix:
+
+- Stěna
+- Věšák
+- Předsíňová stěna
+- Skříňka na klíče
+- Věšák na klíče
+
+<!-- ========================================= -->
+
+## Rohože
+
+### ID: 18884809
+### SEO - Prefix:
+
+- Rohožka
 

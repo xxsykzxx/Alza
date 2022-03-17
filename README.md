@@ -534,6 +534,29 @@ V oddělení: Hračky, pro děti a miminka
 - Petanque
 - Vodní stůl
 
+<!-- ========================================= -->
 
+## Jídelní sety (nábytek)
 
+### ID: 18885357
+### SEO Prefix: 
 
+- Zahradní nábytek
+- Jídelní set
+
+<!-- ========================================= -->
+
+## Komody
+
+### ID: 18877951
+### SEO - Prefix:
+
+<!-- ========================================= -->
+
+## Taburety
+
+### ID: 18870517
+### SEO - Prefix:
+
+- Stolička
+- Taburet

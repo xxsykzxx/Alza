@@ -432,4 +432,16 @@ Oddělení je v: Zážitky, poukazy a vouchery -> Zboží -> Nábytek a doplňky
 - Samolepicí dekorace
 - Tematická sada hraček
 
+<!-- ========================================= -->
+
+## Šperkovnice a pokladničky
+V oddělení: Hračky, pro děti a miminka
+
+### ID: 18863052
+### SEO Prefix
+- Pokladnička
+- Šperkovnice
+- Dětský nábytek
+- Dětský stůl
+- Dětské nářadí
 

@@ -571,3 +571,30 @@ V oddělení: Hračky, pro děti a miminka
 - Police
 -Policová deska
 
+<!-- ========================================= -->
+
+## Koš na prádlo
+
+### ID: 18856408
+### SEO - Prefix:
+
+- Koš na prádlo
+- Košík
+
+<!-- ========================================= -->
+
+## Podnosy a tácy
+
+### ID: 18858858
+### SEO - Prefix:
+
+- Etažérka
+- Kryt
+- Stojánek
+- Talíř
+- Prkénko
+- Podnos
+- Mísa
+- Příborník
+- Košík
+- Podtácek

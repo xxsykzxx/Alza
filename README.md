@@ -572,7 +572,7 @@ V oddělení: Hračky, pro děti a miminka
 ### SEO - Prefix:
 
 - Police
--Policová deska
+- Policová deska
 
 <!-- ========================================= -->
 

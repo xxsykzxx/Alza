@@ -882,12 +882,16 @@ Knihy, poslech a filmy
 
 <!-- ========================================= -->
 ## Šicí stroje
-Šicí stroj, Jehla, Overlock, Coverlock, Sada na šití
 
 
 ## ID: 18852338
 ### SEO - Prefix:
-- kniha
+- Šicí stroj
+- Jehla
+- Overlock
+- Coverlock
+- Sada na šití
+
 
 
 

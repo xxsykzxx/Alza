@@ -550,6 +550,9 @@ V oddělení: Hračky, pro děti a miminka
 
 ### ID: 18877951
 ### SEO - Prefix:
+- Regál
+- Komoda
+
 
 <!-- ========================================= -->
 

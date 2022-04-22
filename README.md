@@ -285,7 +285,7 @@ Oddělení je v: Zážitky, poukazy a vouchery -> Zboží -> Nábytek a doplňky
 
 ## Hrnky
 
-### ID: 18886275
+### ID: 18873811
 ### SEO - Prefix:
 
 - Hrnek

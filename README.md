@@ -878,7 +878,6 @@ V oddělení: Hračky, pro děti a miminka
 ## Šití a háčkování
 Knihy, poslech a filmy
 
-
 ### ID: 18886275
 ### SEO - Prefix:
 - kniha
@@ -886,7 +885,7 @@ Knihy, poslech a filmy
 <!-- ========================================= -->
 ## Šicí stroje
 
-## ID: 18852338
+### ID: 18852338
 ### SEO - Prefix:
 - Šicí stroj
 - Jehla
@@ -898,7 +897,7 @@ Knihy, poslech a filmy
 
 ## Velikonoční dekorace
 
-## ID: 18888221
+### ID: 18888221
 ### SEO - Prefix:
 - Velikonoční dekorace
 
@@ -906,7 +905,7 @@ Knihy, poslech a filmy
 
 ## Jarní dekorace
 
-## ID: 18885924
+### ID: 18885924
 ### SEO - Prefix:
 - Jarní dekorace
 
@@ -914,7 +913,7 @@ Knihy, poslech a filmy
 
 ## Podzimní dekorace
 
-## ID: 18892398
+### ID: 18892398
 ### SEO - Prefix:
 - Podzimní dekorace
 

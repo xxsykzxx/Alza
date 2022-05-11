@@ -886,7 +886,6 @@ Knihy, poslech a filmy
 <!-- ========================================= -->
 ## Šicí stroje
 
-
 ## ID: 18852338
 ### SEO - Prefix:
 - Šicí stroj
@@ -895,6 +894,29 @@ Knihy, poslech a filmy
 - Coverlock
 - Sada na šití
 
+<!-- ========================================= -->
+
+## Velikonoční dekorace
+
+## ID: 18888221
+### SEO - Prefix:
+- Velikonoční dekorace
+
+<!-- ========================================= -->
+
+## Jarní dekorace
+
+## ID: 18885924
+### SEO - Prefix:
+- Jarní dekorace
+
+<!-- ========================================= -->
+
+## Podzimní dekorace
+
+## ID: 18892398
+### SEO - Prefix:
+- Podzimní dekorace
 
 
 

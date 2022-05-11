@@ -895,15 +895,15 @@ Knihy, poslech a filmy
 
 <!-- ========================================= -->
 
-## Velikonoční dekorace
+## Velikonoční dekorace - (pravděpodobně špatně)
 
 ### ID: 18888221
 ### SEO - Prefix:
 - Velikonoční dekorace
 
-<!-- ========================================= -->
+<!-- ========================================= --> 
 
-## Jarní dekorace
+## Jarní dekorace (pravděpodobně špatně)
 
 ### ID: 18885924
 ### SEO - Prefix:
@@ -911,12 +911,24 @@ Knihy, poslech a filmy
 
 <!-- ========================================= -->
 
-## Podzimní dekorace
+## Podzimní dekorace (pravděpodobně špatně)
 
 ### ID: 18892398
 ### SEO - Prefix:
 - Podzimní dekorace
 
+<!-- ========================================= -->
+
+## Dekorace (Jaro / Velikonoce / Podzim)
+- dle Alzy zatřídit zde [ZDE](https://www.alza.cz/hobby/akvarijni-dekorace/18892997.htm)
+
+### ID: 18892997
+### SEO - Prefix:
+- **Dekorace**
+- Krmítko
+- Pozadí
+- Tapeta
+- Úkryt
 
 
 
